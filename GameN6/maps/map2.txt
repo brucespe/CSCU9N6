@@ -1,0 +1,25 @@
+63 12 42 42
+// The first line should contain the width and height of the
+// map and the width and height of each tile. A list of character to
+// tile mappings is then provided where each character is preceded by a
+// # character. The dot character always defaults to a blank space 
+// Note that the referenced files should be in the same directory as the
+// tile map.
+#p=wall.png
+#t=pipetop.png
+#b=pipebot.png
+#w=wall.png
+// The actual tile map is preceded by the #map line
+#map
+wwwwwwwwwwwwwwwwwwwwwwppppppppppppppppppppppppppwwwwwwwwwwwwwww
+w........ppppp......p.........................................w
+w.......p.....p....p..........................................w
+w......p......p.ppp.....pppp..................................w
+w....pp.......pp......ppwwwwp..................p...pppp.......w
+w...p.....p.p.p......p..pw.....p...p...p...p...pppp....p......w
+w..p....p.......p...p...w......................pwp......pp.pppw
+w.p....ppppppppppp.p....w....p..p...p...........p....p........w
+wp....p..........p.pppppp.......................p..p......p...w
+w....p...........p.........p.............p........pppppppppp..w
+w...p............pppppppppppppppppppppppppppppppppppppppppppppw
+wpppwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
